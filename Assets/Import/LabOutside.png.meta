@@ -1,0 +1,1246 @@
+fileFormatVersion: 2
+guid: b22fad4c280423f42bc6ac80218e3e3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3810811999325286958
+    second: LabOutside_0
+  - first:
+      213: -115261201082118404
+    second: LabOutside_1
+  - first:
+      213: 2012875695735423552
+    second: LabOutside_2
+  - first:
+      213: 9014722256533449870
+    second: LabOutside_3
+  - first:
+      213: 7346390012179260094
+    second: LabOutside_4
+  - first:
+      213: 7536414797704890694
+    second: LabOutside_5
+  - first:
+      213: -3479018373590665553
+    second: LabOutside_6
+  - first:
+      213: -1882937149643352676
+    second: LabOutside_7
+  - first:
+      213: -70670929859959502
+    second: LabOutside_8
+  - first:
+      213: 7840225022696831907
+    second: LabOutside_9
+  - first:
+      213: -6117597791544878333
+    second: LabOutside_10
+  - first:
+      213: -4680408295652384007
+    second: LabOutside_11
+  - first:
+      213: -1464704113249509329
+    second: LabOutside_12
+  - first:
+      213: -703275212632023368
+    second: LabOutside_13
+  - first:
+      213: 6653720788963663378
+    second: LabOutside_14
+  - first:
+      213: 7964019593471223591
+    second: LabOutside_15
+  - first:
+      213: 138281846558689991
+    second: LabOutside_16
+  - first:
+      213: -5985521056623150695
+    second: LabOutside_17
+  - first:
+      213: 7770074190172632741
+    second: LabOutside_18
+  - first:
+      213: -5106092399973881321
+    second: LabOutside_19
+  - first:
+      213: -3229334153327089353
+    second: LabOutside_20
+  - first:
+      213: -5904369693733723809
+    second: LabOutside_21
+  - first:
+      213: -1505652984565706038
+    second: LabOutside_22
+  - first:
+      213: 2107264116023371225
+    second: LabOutside_23
+  - first:
+      213: 6457809456515948248
+    second: LabOutside_24
+  - first:
+      213: -260205167623832974
+    second: LabOutside_25
+  - first:
+      213: -6994515891519513548
+    second: LabOutside_26
+  - first:
+      213: -4635291300609557434
+    second: LabOutside_27
+  - first:
+      213: -3117368130925813569
+    second: LabOutside_28
+  - first:
+      213: -7864033441412594873
+    second: LabOutside_29
+  - first:
+      213: -6982568307497300851
+    second: LabOutside_30
+  - first:
+      213: 6701379438637885721
+    second: LabOutside_31
+  - first:
+      213: -4229715491420829760
+    second: LabOutside_32
+  - first:
+      213: -3466225581429032944
+    second: LabOutside_33
+  - first:
+      213: 5192676246533563165
+    second: LabOutside_34
+  - first:
+      213: 5194536154998677391
+    second: LabOutside_35
+  - first:
+      213: 6779564022871483046
+    second: LabOutside_36
+  - first:
+      213: 2658949853270953274
+    second: LabOutside_37
+  - first:
+      213: -8629001757846952055
+    second: LabOutside_38
+  - first:
+      213: -663100752534605760
+    second: LabOutside_39
+  - first:
+      213: -4497211374343913711
+    second: LabOutside_40
+  - first:
+      213: 4802112579182660455
+    second: LabOutside_41
+  - first:
+      213: 778989097789646418
+    second: LabOutside_42
+  - first:
+      213: -2068511383476793889
+    second: LabOutside_43
+  - first:
+      213: 8983130241556151290
+    second: LabOutside_44
+  - first:
+      213: 9173032334558233088
+    second: LabOutside_45
+  - first:
+      213: 1869552256034846196
+    second: LabOutside_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LabOutside_0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 321
+        width: 860
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e227495a259b2e430800000000000000
+      internalID: 3810811999325286958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 245
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe8d1d5c82866ef0800000000000000
+      internalID: -115261201082118404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 245
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042c355d7cb2feb10800000000000000
+      internalID: 2012875695735423552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 245
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ceb79512aba1d70800000000000000
+      internalID: 9014722256533449870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 245
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb22c611bce93f560800000000000000
+      internalID: 7346390012179260094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 166
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64982313459b69860800000000000000
+      internalID: 7536414797704890694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_6
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6321bc83b08bfc0800000000000000
+      internalID: -3479018373590665553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 166
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c951f1d73a67ed5e0800000000000000
+      internalID: -1882937149643352676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_8
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 166
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23520c9e92de40ff0800000000000000
+      internalID: -70670929859959502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_9
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab39fc6e131ecc60800000000000000
+      internalID: 7840225022696831907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bd044983de91ba0800000000000000
+      internalID: -6117597791544878333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 166
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f229d5f379db0fb0800000000000000
+      internalID: -4680408295652384007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_12
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 166
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20a5bc8e535cabe0800000000000000
+      internalID: -1464704113249509329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 58
+        width: 160
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be1bb39be67d36f0800000000000000
+      internalID: -703275212632023368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 103
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e9fccfdc3c65c50800000000000000
+      internalID: 6653720788963663378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_15
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 124
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7276a1500a1e58e60800000000000000
+      internalID: 7964019593471223591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_16
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 103
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca04075b964be100800000000000000
+      internalID: 138281846558689991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_17
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 116
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9993b58cf482feca0800000000000000
+      internalID: -5985521056623150695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_18
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 116
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6bbafee49d4db60800000000000000
+      internalID: 7770074190172632741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_19
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 124
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a2c35f3048329b0800000000000000
+      internalID: -5106092399973881321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_20
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 103
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 739e6e182b91f23d0800000000000000
+      internalID: -3229334153327089353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 116
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f516b66db077f0ea0800000000000000
+      internalID: -5904369693733723809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_22
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 116
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac254fb7698da1be0800000000000000
+      internalID: -1505652984565706038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_23
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 95
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5208b7c818e3d10800000000000000
+      internalID: 2107264116023371225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_24
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de9aca5c7fbe9950800000000000000
+      internalID: 6457809456515948248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_25
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a7f0757c0936cf0800000000000000
+      internalID: -260205167623832974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_26
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c972eeadc7eee90800000000000000
+      internalID: -6994515891519513548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_27
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c75b4fe132cafb0800000000000000
+      internalID: -4635291300609557434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_28
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb02b029332ecb4d0800000000000000
+      internalID: -3117368130925813569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_29
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7434fce10475dd290800000000000000
+      internalID: -7864033441412594873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_30
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 95
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c09bb9e1fe81f90800000000000000
+      internalID: -6982568307497300851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_31
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 95
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9192e111815100d50800000000000000
+      internalID: 6701379438637885721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_32
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 103
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c705e8ab280d45c0800000000000000
+      internalID: -4229715491420829760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_33
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018fc83d23e75efc0800000000000000
+      internalID: -3466225581429032944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_34
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13ed34c887101840800000000000000
+      internalID: 5192676246533563165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_35
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9e937c13b61840800000000000000
+      internalID: 5194536154998677391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_36
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 61
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a2e5432f89d51e50800000000000000
+      internalID: 6779564022871483046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_37
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dcac7cdcc76e420800000000000000
+      internalID: 2658949853270953274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_38
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 53
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987af41ae90af3880800000000000000
+      internalID: -8629001757846952055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_39
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04071eaf0613cc6f0800000000000000
+      internalID: -663100752534605760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_40
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f72601512b691c0800000000000000
+      internalID: -4497211374343913711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_41
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b0e95b2f784a240800000000000000
+      internalID: 4802112579182660455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_42
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 53
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25667a905768fca00800000000000000
+      internalID: 778989097789646418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_43
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd830e2bdb2b43e0800000000000000
+      internalID: -2068511383476793889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_44
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbf50b2c5d7aac70800000000000000
+      internalID: 8983130241556151290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_45
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0020486be482d4f70800000000000000
+      internalID: 9173032334558233088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LabOutside_46
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 61
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5bcfd1fdbf1f910800000000000000
+      internalID: 1869552256034846196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
